@@ -35,82 +35,82 @@ canciones = [
         "titulo": "Die Liebe Kommt nicht aus Berlin",
         "artista": "Brutalismus 3000",
         "url": "https://www.youtube.com/embed/BY1qkoUhcWQ"
-    }
+    },
     {
         "titulo": "Antonio soffiantini detto tunin",
         "artista": "Carlo Savani",
         "url": "https://www.youtube.com/watch?v=KrqTPEow7rk"
-    }
+    },
     {
         "titulo": "Jewells",
         "artista": "Cranes",
         "url": "https://www.youtube.com/watch?v=L8QE4k0T980"
-    }
+    },
     {
         "titulo": "Running up that hill",
         "artista": "Kate Bush",
         "url": "https://www.youtube.com/watch?v=HYwNM1t9ltI"
-    }
+    },
     {
         "titulo": "Interlude",
         "artista": "Reverend Baron",
         "url": "https://www.youtube.com/watch?v=nuRT3fm3KYE"
-    }
+    },
     {
         "titulo": "Electrocution",
         "artista": "Automatic",
         "url": "https://www.youtube.com/watch?v=rvIlqj3bPXc"
-    }
+    },
     {
         "titulo": "Highway",
         "artista": "Automatic",
         "url": "https://www.youtube.com/watch?v=T6yMjmlfw7M"
-    }
+    },
     {
         "titulo": "I Can´t live in a living room",
         "artista": "Red Zebra",
         "url": "https://www.youtube.com/watch?v=Xvb_oRBjbcw"
-    }
+    },
     {
         "titulo": "Supernature",
         "artista": "Cerrone",
         "url": "https://www.youtube.com/watch?v=7XMpqVmaQpg"
-    }
+    },
     {
         "titulo": "Higher",
         "artista": "Ary",
         "url": "https://www.youtube.com/watch?v=WtAz6jc2mr0"
-    }
+    },
     {
         "titulo": "Paris/Orly",
         "artista": "Deux",
         "url": "https://www.youtube.com/watch?v=XXIPOK1rc88"
-    }
+    },
     {
         "titulo": "Game and Performance",
         "artista": "Deux",
         "url": "https://www.youtube.com/watch?v=E_lnQDnC3zU"
-    }
+    },
     {
         "titulo": "Espresso",
         "artista": "Sabrina Carpenter",
         "url": "https://www.youtube.com/watch?v=51zjlMhdSTE"
-    }
+    },
     {
         "titulo": "No habrá nadie en el mundo",
         "artista": "Bulka",
         "url": "https://www.youtube.com/watch?v=JETyhLQFJW4"
-    }
+    },
     {
         "titulo": "Mlitary Fashion Show",
         "artista": "And One",
         "url": "https://www.youtube.com/watch?v=vwnLp67rrzY"
-    }
+    },
     {
         "titulo": "Babes ofthe 80s",
         "artista": "Lebanon Hanover",
         "url": "https://www.youtube.com/watch?v=8kXFnLI1bzc"
-    }
+    },
     {
         "titulo": "Pain",
         "artista": "Boy Hasher",
