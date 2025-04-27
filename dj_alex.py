@@ -39,82 +39,82 @@ canciones = [
     {
         "titulo": "Antonio soffiantini detto tunin",
         "artista": "Carlo Savani",
-        "url": "https://www.youtube.com/watch?v=KrqTPEow7rk"
+        "url": "https://www.youtube.com/embed/KrqTPEow7rk"
     },
     {
         "titulo": "Jewells",
         "artista": "Cranes",
-        "url": "https://www.youtube.com/watch?v=L8QE4k0T980"
+        "url": "https://www.youtube.com/embed/L8QE4k0T980"
     },
     {
         "titulo": "Running up that hill",
         "artista": "Kate Bush",
-        "url": "https://www.youtube.com/watch?v=HYwNM1t9ltI"
+        "url": "https://www.youtube.com/embed/HYwNM1t9ltI"
     },
     {
         "titulo": "Interlude",
         "artista": "Reverend Baron",
-        "url": "https://www.youtube.com/watch?v=nuRT3fm3KYE"
+        "url": "https://www.youtube.com/embed/nuRT3fm3KYE"
     },
     {
         "titulo": "Electrocution",
         "artista": "Automatic",
-        "url": "https://www.youtube.com/watch?v=rvIlqj3bPXc"
+        "url": "https://www.youtube.com/embed/rvIlqj3bPXc"
     },
     {
         "titulo": "Highway",
         "artista": "Automatic",
-        "url": "https://www.youtube.com/watch?v=T6yMjmlfw7M"
+        "url": "https://www.youtube.com/embed/T6yMjmlfw7M"
     },
     {
         "titulo": "I Can´t live in a living room",
         "artista": "Red Zebra",
-        "url": "https://www.youtube.com/watch?v=Xvb_oRBjbcw"
+        "url": "https://www.youtube.com/embed/Xvb_oRBjbcw"
     },
     {
         "titulo": "Supernature",
         "artista": "Cerrone",
-        "url": "https://www.youtube.com/watch?v=7XMpqVmaQpg"
+        "url": "https://www.youtube.com/embed/7XMpqVmaQpg"
     },
     {
         "titulo": "Higher",
         "artista": "Ary",
-        "url": "https://www.youtube.com/watch?v=WtAz6jc2mr0"
+        "url": "https://www.youtube.com/embed/WtAz6jc2mr0"
     },
     {
         "titulo": "Paris/Orly",
         "artista": "Deux",
-        "url": "https://www.youtube.com/watch?v=XXIPOK1rc88"
+        "url": "https://www.youtube.com/embed/XXIPOK1rc88"
     },
     {
         "titulo": "Game and Performance",
         "artista": "Deux",
-        "url": "https://www.youtube.com/watch?v=E_lnQDnC3zU"
+        "url": "https://www.youtube.com/embed/E_lnQDnC3zU"
     },
     {
         "titulo": "Espresso",
         "artista": "Sabrina Carpenter",
-        "url": "https://www.youtube.com/watch?v=51zjlMhdSTE"
+        "url": "https://www.youtube.com/embed/51zjlMhdSTE"
     },
     {
         "titulo": "No habrá nadie en el mundo",
         "artista": "Bulka",
-        "url": "https://www.youtube.com/watch?v=JETyhLQFJW4"
+        "url": "https://www.youtube.com/embed/JETyhLQFJW4"
     },
     {
         "titulo": "Mlitary Fashion Show",
         "artista": "And One",
-        "url": "https://www.youtube.com/watch?v=vwnLp67rrzY"
+        "url": "https://www.youtube.com/embed/vwnLp67rrzY"
     },
     {
         "titulo": "Babes ofthe 80s",
         "artista": "Lebanon Hanover",
-        "url": "https://www.youtube.com/watch?v=8kXFnLI1bzc"
+        "url": "https://www.youtube.com/embed/8kXFnLI1bzc"
     },
     {
         "titulo": "Pain",
         "artista": "Boy Hasher",
-        "url": "https://www.youtube.com/watch?v=HYsTVlznT8I"
+        "url": "https://www.youtube.com/embed/HYsTVlznT8I"
     }
 
 
