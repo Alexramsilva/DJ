@@ -285,7 +285,7 @@ canciones = [
         "titulo": "Rosa venus",
         "artista": "Fobia",
         "url": "https://www.youtube.com/embed/RlHOgYJjVMo"
-    }
+    },
 
 
 ]
