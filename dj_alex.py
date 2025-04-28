@@ -116,11 +116,181 @@ canciones = [
         "artista": "Boy Hasher",
         "url": "https://www.youtube.com/embed/HYsTVlznT8I"
     }
+    {
+        "titulo": "Tu Luz",
+        "artista": "Azul Violeta",
+        "url": "https://www.youtube.com/embed/RXV3Omh13bE"
+    },
+    {
+        "titulo": "Brain Freeze",
+        "artista": "Everyone Says Hi",
+        "url": "https://www.youtube.com/embed/qKMybUSh_gI"
+    },
+    {
+        "titulo": "The Adults are talking",
+        "artista": "The Strokes",
+        "url": "https://www.youtube.com/embed/o4qsjmLxhow"
+    },
+    {
+        "titulo": "Fuckoff in not the only you have to show",
+        "artista": "CSS",
+        "url": "https://www.youtube.com/embed/BVGHHci1oh4"
+    },
+    {
+        "titulo": "Taube",
+        "artista": "ZweiLaster",
+        "url": "https://www.youtube.com/embed/sbsMwPKGM"
+    },
+    {
+        "titulo": "Aéro Dynamik",
+        "artista": "Kraftwerk",
+        "url": "https://www.youtube.com/embed/OMSFr2-QeR8"
+    },
+    {
+        "titulo": "Spare me the decision",
+        "artista": "Nation of Language",
+        "url": "https://www.youtube.com/embed/Qla9jQXhDIA"
+    },
+    {
+        "titulo": "Oblivon",
+        "artista": "Grimes",
+        "url": "https://www.youtube.com/embed/S8HrvII7gU0"
+    },
+    {
+        "titulo": "Templation",
+        "artista": "New Order",
+        "url": "https://www.youtube.com/embed/R_8kiU8T2bs"
+    },
+    {
+        "titulo": "No te alejes tanto de mi",
+        "artista": "Luis Alberto Spinetta",
+        "url": "https://www.youtube.com/embed/cmDgth96PDw"
+    },
+    {
+        "titulo": "Mil horas",
+        "artista": "Los abuelos de la nada",
+        "url": "https://www.youtube.com/embed/1To_Wz5RWi0"
+    },
+    {
+        "titulo": "Arrancacorazones",
+        "artista": "Attaque 77",
+        "url": "https://www.youtube.com/embed/oblZatYQpGc"
+    },
+    {
+        "titulo": "Loco (tu forma de ser)",
+        "artista": "Los Auténticos Decadentes",
+        "url": "https://www.youtube.com/embed/fgXDHQm5eq4"
+    },
+    {
+        "titulo": "No me arrepiento de este amor",
+        "artista": "Attaque 77",
+        "url": "https://www.youtube.com/embed/qN3Y3Z5-3sw"
+    },
+    {
+        "titulo": "Hablando a tu corazón",
+        "artista": "Charly Garcia",
+        "url": "https://www.youtube.com/embed/Z7AERldCALc"
+    },
+    {
+        "titulo": "Gato",
+        "artista": "Maya Delilah",
+        "url": "https://www.youtube.com/embed/OBVFdprVDSo"
+    },
+    {
+        "titulo": "Discoschnupfen",
+        "artista": "BIBIZA",
+        "url": "https://www.youtube.com/embed/kmlQxgm8d7g"
+    },
+    {
+        "titulo": "Outfit Check",
+        "artista": "Ritter Lean",
+        "url": "https://www.youtube.com/embed/yt7pqmkfjUI"
+    },
+    {
+        "titulo": "Bisschen mehr als freundshaft",
+        "artista": "Max&Joy",
+        "url": "https://www.youtube.com/embed/rsmPE5KmUv8"
+    },
+    {
+        "titulo": "Vuelvo al sur",
+        "artista": "Gotan Project",
+        "url": "https://www.youtube.com/embed/0Otelte6m5Q"
+    },
+    {
+        "titulo": "Vamos Companeros",
+        "artista": "Harmonia & Eno",
+        "url": "https://www.youtube.com/embed/AxYzWamhB6Q"
+    },
+    {
+        "titulo": "Lip Flip",
+        "artista": "aya",
+        "url": "https://www.youtube.com/embed/yKYomCBGQ_k"
+    },
+    {
+        "titulo": "Chunga´s Revenue",
+        "artista": "Gotan Project",
+        "url": "https://www.youtube.com/embed/FWj2-iyTF8c"
+    },
+    {
+        "titulo": "Attenti al Lupo",
+        "artista": "Lucio Dalla",
+        "url": "https://www.youtube.com/embed/kFfhBX7ET-4"
+    },
+    {
+        "titulo": "Herz ist Trumf",
+        "artista": "Trio",
+        "url": "https://www.youtube.com/embed/NUU3ci9KUdg"
+    },
+    {
+        "titulo": "Wieviel Menschen waren glucklich, dass du gelebt?",
+        "artista": "Hilegard knef",
+        "url": "https://www.youtube.com/embed/LmVNZHGAX-Y"
+    },
+    {
+        "titulo": "Verstarker",
+        "artista": "Blumfeld",
+        "url": "https://www.youtube.com/embed/H6qtPaMX3d0"
+    },
+    {
+        "titulo": "Shattered Dreams",
+        "artista": "Johny Hates Jazz",
+        "url": "https://www.youtube.com/embed/Kz5scjSQ_WE"
+    },
+    {
+        "titulo": "Abusey Junction",
+        "artista": "Kokoroko",
+        "url": "https://www.youtube.com/embed/tSv04ylc6To"
+    },
+    {
+        "titulo": "De Repente",
+        "artista": "alici",
+        "url": "https://www.youtube.com/embed/37ctpubCYTg"
+    },
+    {
+        "titulo": "Rennfahrer",
+        "artista": "Modular",
+        "url": "https://www.youtube.com/embed/-kI5deFP9J8"
+    },
+    {
+        "titulo": "New Cinnamon Girls",
+        "artista": "The Model Rockets",
+        "url": "https://www.youtube.com/embed/h5q0B6oTZNc"
+    },
+    {
+        "titulo": "Eyes without face",
+        "artista": "Billie Idol",
+        "url": "https://www.youtube.com/embed/G_GxaoOJFTY"
+    },
+    {
+        "titulo": "Rosa venus",
+        "artista": "Fobia",
+        "url": "https://www.youtube.com/embed/RlHOgYJjVMo"
+    }
 
 
 ]
 
-st.title("El play list oficial del tio Alex")
+st.title("El Playlist (oficial) del tio Alex")
 
 # Seleccionar canción
 opciones = [f"{c['titulo']} - {c['artista']}" for c in canciones]
