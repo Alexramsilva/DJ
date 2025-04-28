@@ -115,7 +115,7 @@ canciones = [
         "titulo": "Pain",
         "artista": "Boy Hasher",
         "url": "https://www.youtube.com/embed/HYsTVlznT8I"
-    }
+    },
     {
         "titulo": "Tu Luz",
         "artista": "Azul Violeta",
