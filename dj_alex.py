@@ -286,6 +286,16 @@ canciones = [
         "artista": "Fobia",
         "url": "https://www.youtube.com/embed/RlHOgYJjVMo"
     },
+    {
+        "titulo": "Plus de sens",
+        "artista": "Angèle",
+        "url": "https://www.youtube.com/embed/ytVhqQDWOT4"
+    },
+    {
+        "titulo": "A little more",
+        "artista": "Angèle",
+        "url": "https://www.youtube.com/embed/D4C8SnX5xSg"
+    },
 
 
 ]
