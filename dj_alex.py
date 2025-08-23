@@ -299,132 +299,132 @@ canciones = [
     {
         "titulo": "Ese amor no se toca",
         "artista": "Sergio Dalma",
-        "url": "https://www.youtube.com/watch?v=_zhR41wrAp4"
+        "url": "https://www.youtube.com/embed/_zhR41wrAp4"
     },
     {
         "titulo": "Como el viento",
         "artista": "Depedro",
-        "url": "https://www.youtube.com/watch?v=EBLjsT6x21o"
+        "url": "https://www.youtube.com/embed/EBLjsT6x21o"
     },
     {
         "titulo": "Overkill",
         "artista": "Man at Work",
-        "url": "https://www.youtube.com/watch?v=1tBk-e-5Jfs"
+        "url": "https://www.youtube.com/embed/1tBk-e-5Jfs"
     },
     {
         "titulo": "Maniac",
         "artista": "Michael Sembello",
-        "url": "https://www.youtube.com/watch?v=6GCNUeTFSbA"
+        "url": "https://www.youtube.com/embed/6GCNUeTFSbA"
     },
     {
         "titulo": "Try",
         "artista": "Torul",
-        "url": "https://www.youtube.com/watch?v=MCC4I4_rONM"
+        "url": "https://www.youtube.com/embed/MCC4I4_rONM"
     },
     {
         "titulo": "All I want",
         "artista": "Boys Noize",
-        "url": "https://www.youtube.com/watch?v=3gJeDlldwyA"
+        "url": "https://www.youtube.com/embed/3gJeDlldwyA"
     },
     {
         "titulo": "I wake up slowly",
         "artista": "Oslo Twins",
-        "url": "https://www.youtube.com/watch?v=LAg5FUcm6ek"
+        "url": "https://www.youtube.com/embed/LAg5FUcm6ek"
     },
     {
         "titulo": "On Ebay",
         "artista": "Chumbawamba",
-        "url": "https://www.youtube.com/watch?v=J58cbHpsUS8"
+        "url": "https://www.youtube.com/embed/J58cbHpsUS8"
     },
     {
         "titulo": "8 Stunden",
         "artista": "Dr Drexler",
-        "url": "https://www.youtube.com/watch?v=0FBBJ-M9f64"
+        "url": "https://www.youtube.com/embed/0FBBJ-M9f64"
     },
     {
         "titulo": "Blaue Augen",
         "artista": "Ideal",
-        "url": "https://www.youtube.com/watch?v=M8EAhXJuG14"
+        "url": "https://www.youtube.com/embed/M8EAhXJuG14"
     },
     {
         "titulo": "Berlin",
         "artista": "Ideal",
-        "url": "https://www.youtube.com/watch?v=tYyZaoVT3WA"
+        "url": "https://www.youtube.com/embed/tYyZaoVT3WA"
     },
     {
         "titulo": "She´s a bad mama Jama",
         "artista": "Carl Carlton",
-        "url": "https://www.youtube.com/watch?v=sRRtbEeokE8"
+        "url": "https://www.youtube.com/embed/sRRtbEeokE8"
     },
     {
         "titulo": "Sugar on my Tongue",
         "artista": "Tyler, The Creator",
-        "url": "https://www.youtube.com/watch?v=TOc6XBJ6ADk"
+        "url": "https://www.youtube.com/embed/TOc6XBJ6ADk"
     },
     {
         "titulo": "After Midnight",
         "artista": "Phoenix",
-        "url": "https://www.youtube.com/watch?v=o_xOHvFbkl0"
+        "url": "https://www.youtube.com/embed/o_xOHvFbkl0"
     },
     {
         "titulo": "Marquee Moon",
         "artista": "Television",
-        "url": "https://www.youtube.com/watch?v=g4myghLPLZc"
+        "url": "https://www.youtube.com/embed/g4myghLPLZc"
     },
     {
         "titulo": "Dark Allies",
         "artista": "Light Asylum",
-        "url": "https://www.youtube.com/watch?v=dobTIUlbK4k"
+        "url": "https://www.youtube.com/embed/dobTIUlbK4k"
     },
     {
         "titulo": "Messages",
         "artista": "Orchesta Manoeuvres in the dark",
-        "url": "https://www.youtube.com/watch?v=78tmLUxLsnI"
+        "url": "https://www.youtube.com/embed/78tmLUxLsnI"
     },
     {
         "titulo": "Leave the Silence",
         "artista": "Depeche Mode",
-        "url": "https://www.youtube.com/watch?v=8EaBsKMxv-8"
+        "url": "https://www.youtube.com/embed/8EaBsKMxv-8"
     },
     {
         "titulo": "Nowhere Girl",
         "artista": "B.Movie",
-        "url": "https://www.youtube.com/watch?v=aQfC7Ow5GHo"
+        "url": "https://www.youtube.com/embed/aQfC7Ow5GHo"
     },
     {
         "titulo": "Wutendes Glas",
         "artista": "Soft Scent",
-        "url": "https://www.youtube.com/watch?v=I9Lc8_5WSKY"
+        "url": "https://www.youtube.com/embed/I9Lc8_5WSKY"
     },
     {
         "titulo": "Encuentroen el Rio",
         "artista": "Virus",
-        "url": "https://www.youtube.com/watch?v=lAfbtATmlJQ"
+        "url": "https://www.youtube.com/embed/lAfbtATmlJQ"
     },
     {
         "titulo": "A Day",
         "artista": "Clan of Xymox",
-        "url": "https://www.youtube.com/watch?v=aIvF1axgAxA"
+        "url": "https://www.youtube.com/embed/aIvF1axgAxA"
     },
     {
         "titulo": "Monolith",
         "artista": "Twin Tribes",
-        "url": "https://www.youtube.com/watch?v=u8Q1qzx7xm0"
+        "url": "https://www.youtube.com/embed/u8Q1qzx7xm0"
     },
     {
         "titulo": "Miusique automatique",
         "artista": "Stereo total",
-        "url": "https://www.youtube.com/watch?v=i7OsQsIqKw8"
+        "url": "https://www.youtube.com/embed/i7OsQsIqKw8"
     },
     {
         "titulo": "Lawrence de Arabia",
         "artista": "Hombres G",
-        "url": "https://www.youtube.com/watch?v=f6fvIjq4UA4"
+        "url": "https://www.youtube.com/embed/f6fvIjq4UA4"
     },
     {
         "titulo": "Fascination",
         "artista": "The Droyds Ghetto",
-        "url": "https://www.youtube.com/watch?v=7uGDwwM6YtA"
+        "url": "https://www.youtube.com/embed/7uGDwwM6YtA"
     },
 
 
