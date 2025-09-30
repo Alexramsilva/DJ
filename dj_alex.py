@@ -426,11 +426,36 @@ canciones = [
         "artista": "The Droyds Ghetto",
         "url": "https://www.youtube.com/embed/7uGDwwM6YtA"
     },
+    {
+        "titulo": "Fancy Shit",
+        "artista": "CID & Taylr Renee",
+        "url": "https://www.youtube.com/embed/SVE3kXlKs9U"
+    },
+    {
+        "titulo": "The Bass",
+        "artista": "DJ Wave",
+        "url": "https://www.youtube.com/embed/aUD2ivlyiTM"
+    },
+    {
+        "titulo": "Uninvited",
+        "artista": "Alanis Morissette",
+        "url": "https://www.youtube.com/embed/uvgi7P97lu0"
+    },
+    {
+        "titulo": "1979",
+        "artista": "The Smashing Pumpkins",
+        "url": "https://www.youtube.com/embed/4aeETEoNfOg"
+    },
+    {
+        "titulo": "Tú y la Borracha Noche",
+        "artista": "Armando Palomas",
+        "url": "https://www.youtube.com/embed/1AR_H_DPjO4"
+    },
 
 
 ]
 
-st.title("El Playlist (oficial) del tio Alex")
+st.title("El Playlist (oficial) del Alex")
 
 # Seleccionar canción
 opciones = [f"{c['titulo']} - {c['artista']}" for c in canciones]
